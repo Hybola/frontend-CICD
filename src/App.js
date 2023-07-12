@@ -14,7 +14,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer">
-          Learn React with Docker and Volume + Compose
+          Learn React with Docker and Volume + Compose with Pavit
         </a>
       </header>
     </div>
